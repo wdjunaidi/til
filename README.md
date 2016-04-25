@@ -7,6 +7,7 @@ Collection of little things that I learn everyday. Inspired by [jbraunchaud/til]
 ## Elixir
 
 * [Debugging with IEx.pry](elixir/debugging-with-iex-pry.md)
+* [Run-time tracing with :sys](elixir/runtime-tracing-with-sys.md)
 
 ## Spacemacs
 
