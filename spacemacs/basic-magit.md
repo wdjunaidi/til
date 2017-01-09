@@ -61,6 +61,29 @@ Push to origin
   P p
 ```
 
+### Git branches
+
+On git status window `b` is for git branch command and when followed by:
+
+- `b` - checkout different branch
+- `n` - create new branch
+- `c` - checkout new branch
+- `m` - rename branch
+
+### Git log
+
+On git status window
+
+```
+  l l
+```
+
+On git log window, select specific commit and:
+
+- `<Enter>` will open changes detail of that commit.
+- `b b` and select default value will checkout that particular commit in detached HEAD mode.
+
+
 ## References
 
 * http://magit.vc/manual/magit
